@@ -1,4 +1,4 @@
-![Dark Pink](https://github.com/fralyx/vscode-evil-red-theme/raw/master/assets/header.jpg 'Dark Pink')
+![Dark Pink](https://github.com/flumiie/dark-pink/raw/master/assets/logo.png 'Dark Pink')
 
 # Dark Pink
 
@@ -23,5 +23,6 @@ Install both [Monkey Patch](https://marketplace.visualstudio.com/items?itemName=
 
 # Screenshots
 
-![Screenshot on Windows](https://github.com/fralyx/vscode-evil-red-theme/raw/master/src/s1.png)
-![Screenshot on MacOS](https://github.com/fralyx/vscode-evil-red-theme/raw/master/src/s2.png)
+![Screenshot on Windows](https://github.com/flumiie/dark-pink/raw/master/assets/s1.png)
+
+<!-- ![Screenshot on MacOS](https://github.com/flumiie/dark-pink/raw/master/src/s2.png) -->
