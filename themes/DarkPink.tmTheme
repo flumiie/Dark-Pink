@@ -287,7 +287,7 @@
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
-				<string>#ff8250</string>
+				<string>#ff00aa</string>
 			</dict>
 		</dict>
 		<!-- Element Strings -->
@@ -327,7 +327,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#aa5507ff</string>
+				<string>#9bf199ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -351,7 +351,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#41a83eff</string>
+				<string>#ff8ae2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -364,7 +364,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#96dd3bff</string>
+				<string>#ffccf0</string>
 			</dict>
 		</dict>
 		<dict>

@@ -4,7 +4,7 @@
 	"tokenColors": "./DarkPink.tmTheme",
 	"colors": {
 		// Main Editor
-		"gitDecoration.untrackedResourceForeground": "#ff59c8",
+		"activityBar.activeFocusBorder": "#ff8ae2",
 		"focusBorder": "#aa0077",
 		"editorCursor.foreground": "#661f40",
 		"editorWhitespace.foreground": "#95124f",
@@ -107,7 +107,7 @@
 		"textLink.foreground": "#ff00aa",
 		"input.background": "#55114c",
 		"input.border": "#aa0077",
-		"checkbox.foreground": "#fcc",
+		"checkbox.foreground": "#ffccf0",
 		"checkbox.background": "#55114c",
 		"checkbox.border": "#aa0077",
 		"list.focusBackground": "#ff00aa",
